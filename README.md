@@ -3,7 +3,7 @@ A repository with a basic Keystone project
 
 Instructions to execute
 
-Step 1: Download de project
+Step 1: Download project
 
 git clone https://github.com/medson10/Keystone-Project.git
 
